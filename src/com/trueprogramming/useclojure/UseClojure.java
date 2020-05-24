@@ -21,7 +21,7 @@
  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  SOFTWARE.
  */
-package dev.caliman.use.clojure.from.java.examples;
+package com.trueprogramming.useclojure;
 
 import clojure.lang.Compiler;
 import clojure.lang.PersistentVector;
